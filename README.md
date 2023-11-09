@@ -1,8 +1,7 @@
 # challenge Next.js 13
 
-Ntex.js, typescript and supabase
+Next.js 13 new app router and server actions, typescript and supabase
 
-### Pre-requisitos 📋
 
 
 
