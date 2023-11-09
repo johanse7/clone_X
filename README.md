@@ -1,8 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# challenge Next.js 13
 
-## Getting Started
+Ntex.js, typescript and supabase
 
-First, run the development server:
+### Pre-requisitos 📋
+
+
+
+### First, run the development server: 🔧
+
 
 ```bash
 npm run dev
@@ -12,7 +17,11 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
 ```
+npm install
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
