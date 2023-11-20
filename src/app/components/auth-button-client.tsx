@@ -15,7 +15,7 @@ export function AuthButton({ session }: { session: Session | null }) {
     await supabase.auth.signInWithOAuth({
       provider: "github",
       options: {
-        redirectTo: "https://clone-x-pi.vercel.app/auth/callback",
+        redirectTo:`${location.origin}/auth/callback`,
       },
     });
   };
