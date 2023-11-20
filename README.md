@@ -1,23 +1,38 @@
-# challenge Next.js 13
-
-Next.js 13 new app router and server actions, typescript and supabase
+# challenge Clone X  
 
 
+Next.js 13, React, Typescript and supabase
 
+### Pre-requisitos 📋
 
-### First, run the development server: 🔧
+Es necesario agregar las variables de entorno en un archivo (.env) en la raiz del proyecto.
 
+```
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+```
 
-```bash
+### Instalación 🔧
+
+Instalar las dependecias por medio del comando:\_
+
+```
+npm install
+```
+
+### Ejecución 🚀
+
+Para iniciar la ejecución del proyecto en modo desarrollo se debe ejecutar el siguiente comando:
+
+```
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
 
+```
+url site: https://webapp-challenge-ml.vercel.app
+```
+Desktop
+![image](https://github.com/johanse7/clone_X/assets/11396749/4d78fc92-d029-428a-88dd-2b997713ea7c)
 
-![image](https://github.com/johanse7/clone_X/assets/11396749/691cfde1-7a1b-480d-9b9b-63c5a1a0d915)
-
-![image](https://github.com/johanse7/clone_X/assets/11396749/231e35f1-fbdf-4d7c-be16-10aea03c7d97)
+Mobile
+![image](https://github.com/johanse7/clone_X/assets/11396749/9e456ad8-cd9a-4b7e-b34b-66ed91524b5d)
