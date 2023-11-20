@@ -1,4 +1,4 @@
-# challenge Clone X  
+# Challenge Clone X  
 
 
 Next.js 13, React, Typescript and supabase
