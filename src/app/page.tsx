@@ -1,3 +1,4 @@
+// @ts-ignore
 import { createServerComponentClient } from "@supabase/auth-helpers-nextjs";
 import { cookies } from "next/headers";
 import { AuthButtonServer } from "@/app/components/auth-button-server";
