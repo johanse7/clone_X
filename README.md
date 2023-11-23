@@ -29,7 +29,7 @@ npm run dev
 ```
 
 ```
-url site: https://webapp-challenge-ml.vercel.app
+url site:[ https://webapp-challenge-ml.vercel.app](https://clone-x-pi.vercel.app/
 ```
 ### Desktop
 ![image](https://github.com/johanse7/clone_X/assets/11396749/4d78fc92-d029-428a-88dd-2b997713ea7c)
